@@ -1,0 +1,17 @@
+
+Budget Performance Summary
+
+Actual spending exceeded budget by 11.94%,
+resulting in an unfavorable variance of 95.1M.
+
+The largest unfavorable driver was
+Marketing × Training,
+with a variance of -5.50M.
+
+The Top 10 unfavorable drivers accounted for
+42.29% of total unfavorable variance,
+indicating that the overspend was distributed across multiple cost drivers.
+
+For the largest driver, the worst-performing region was
+East, while the worst month was
+2021-04.
