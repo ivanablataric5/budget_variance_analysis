@@ -97,6 +97,14 @@ budget-variance-analysis/
 
 ## Data source
 
-The analysis is based on a public Budget vs Actual dataset from Kaggle.
+The analysis is based on the **Budget vs Actual Financial Dataset** 
+published on Kaggle by Kennath Alexander Roy.
+
+[View the original dataset on Kaggle](https://www.kaggle.com/datasets/kennathalexanderroy/budget-vs-actual-financial-dataset)
+
+The dataset contains synthetic corporate financial transactions covering
+January 2021 to December 2023. No real company data is used in this project.
+
+The original dataset is not included in this repository.
 
 The original dataset is not included in this repository.
