@@ -9,7 +9,7 @@ Marketing × Training,
 with a variance of -5.50M.
 
 The Top 10 unfavorable drivers accounted for
-42.29% of total unfavorable variance,
+42.33% of total unfavorable variance,
 indicating that the overspend was distributed across multiple cost drivers.
 
 For the largest driver, the worst-performing region was
